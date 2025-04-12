@@ -1,4 +1,4 @@
-# PromptCraft AI: Advanced Image Prompt Generator
+# PromptGenius: Advanced Image Prompt Generator
 
 PromptCraft AI is a cutting-edge web application that enables users to generate advanced image prompts using Google Generative AI (Gemini) . Users can customize various aspects of their prompt such as title, description, design style, color palette, and idea. This platform is built with Next.js and features a sleek, responsive UI.
 
